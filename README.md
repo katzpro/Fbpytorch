@@ -1,5 +1,5 @@
 ## Inspiration
-As future Data Scientists, we are interested in learning more about neural networks and using new technology to create AI. Therefore, we explore PyTorch to broaden our horizons.
+Hello, we are PyTorBot Team of 2. As future Data Scientists, we are interested in learning more about neural networks and using new technology to create AI. Therefore, we explore PyTorch to broaden our horizons.
 
 We think the days that AI can normally converse with humans are neither very far nor very near. We create this tutorial and this PyTorBot to inspire ourselves and other fellows to join in this fascinating field of machine learning and neural networks.
 
